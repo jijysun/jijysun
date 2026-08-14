@@ -21,36 +21,42 @@ Java / Spring 백엔드 개발자를 준비하고 있습니다.
 
 ### Project
 
-**[DummyTalk](레포_링크)** — 실시간 채팅 서비스
+**[DummyTalk](https://github.com/DummyTalk-Solo-Project/DummyTalk_BE)** 
 `Java 21` `Spring Boot 3.5` `PostgreSQL` `Redis` `Elasticsearch`
 > k6 부하 테스트로 HikariCP 커넥션 풀 고갈(Pending 38 / Pool 10)을 병목으로 규명하고,
 > Prometheus + Grafana로 스레드 풀 포화 → 레이턴시 급증 인과를 지표로 추적했습니다.
 
-**[WithRun](레포_링크)** — (한 줄 설명)
+**[WithRun](https://github.com/jijysun/With_Run_BE_V2)** 
 `Spring Boot` `MySQL` `AWS RDS` `Docker`
-> (측정 가능한 성과 한 줄)
+> 실시간 채팅 서비스에 대한 STOMP 병목을 파악/분석하였으며,
+> 이에 대한 끊임없는 개선과 고민을 진행하였습니다.
 
 ---
 
 ### Tech Stack
 
 **Language & Framework**
+
 [![](https://skillicons.dev/icons?i=java,spring,hibernate,gradle)](https://skillicons.dev)
 `Java 21` · `Spring Boot` · `Spring Security (JWT)` · `JPA / Hibernate` · `Gradle`
 
 **Database & Search**
+
 [![](https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch)](https://skillicons.dev)
 `PostgreSQL` · `MySQL` · `Redis (Redisson)` · `Elasticsearch (Nori)`
 
 **Infra & CI/CD**
+
 [![](https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,linux)](https://skillicons.dev)
 `Docker / Compose` · `AWS EC2 · RDS` · `GitHub Actions` · `Nginx` · `Linux`
 
 **Observability & Testing**
+
 [![](https://skillicons.dev/icons?i=prometheus,grafana,postman)](https://skillicons.dev)
 `Prometheus` · `Grafana` · `k6` · `Postman`
 
 **Tools**
+
 [![](https://skillicons.dev/icons?i=idea,git,notion,figma)](https://skillicons.dev)
 
 ---
