@@ -62,20 +62,40 @@
 
 **Language & Framework**
 
+## 💻 Tech Stack
+
+<div align="center">
+
+**☕ Language & Framework**
+
 [![](https://skillicons.dev/icons?i=java,spring,hibernate,gradle)](https://skillicons.dev)
 
-**Database & Search**
+`Java 21` · `Spring Boot` · `Spring Security (JWT)` · `JPA / Hibernate` · `STOMP / WebSocket` · `Gradle`
 
-[![](https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch)](https://skillicons.dev)
+<br>
 
-**Infra & CI/CD**
+**🗄️ Database & Cache**
+
+[![](https://skillicons.dev/icons?i=mysql,postgres,redis)](https://skillicons.dev)
+
+`MySQL` · `PostgreSQL` · `Redis (Redisson, ElastiCache)` · `Caffeine Cache`
+
+<br>
+
+**☁️ Infra & CI/CD**
 
 [![](https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,linux)](https://skillicons.dev)
 
-**Observability & Testing**
+`Docker / Compose` · `AWS EC2 · RDS · S3` · `GitHub Actions` · `Nginx` · `Linux`
+
+<br>
+
+**📈 Observability & Testing**
 
 [![](https://skillicons.dev/icons?i=prometheus,grafana,postman)](https://skillicons.dev)
 
-**Tools**
+`Prometheus` · `Grafana` · `Loki / Promtail` · `k6` · `Postman`
 
-[![](https://skillicons.dev/icons?i=idea,git,notion,figma)](https://skillicons.dev)
+</div>
+
+<br>
