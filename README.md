@@ -21,7 +21,7 @@
 
 | 활동명 | 활동 기간 | 세부 활동 |
 |---|---|---|
-| **가톨릭대학교** | 2020.03 ~ 2027.02 | 컴퓨터정보공학부 · 졸업 예정 (학점 4.15 / 4.5) |
+| **가톨릭대학교** | 2020.03 ~  | 컴퓨터정보공학부 · 졸업 예정 (학점 4.15 / 4.5) |
 | **GDGoC on Campus CUK** | 2024.09 ~ 2026.06 | 3~6기 연속 활동 · 스터디 팀장 3회 (Spring / 1인 프로젝트 / 알고리즘 / 면접) |
 | **UMC (University MakeUs Challenge)** | 2025.03 ~ 2026.02 | 8기·9기 Backend Team Leader · 프로젝트 개발 2회 |
 
@@ -42,9 +42,11 @@
 > Caffeine Cache를 활용한 조회 쿼리 경량화 및 캐시 적중률 확보
 
 ### ⏰ **[Lumo](https://github.com/jijysun/Lumo_Backend)** — AI 미션 알람 서비스 · Backend Team Leader
-> CI/CD 파이프라인 구축  및 무중단 배포, 블루 그린 배포
+> CI/CD 파이프라인 구축 및 무중단 & 블루 그린 배포
 
-> Redis Message Queue와 병렬 워커를 활용한 API 최적화
+> Redis STREAM과 병렬 워커를 활용한 인증 요청 API 최적화
+
+> JWT 토큰에 대한 RTR 로직 도입
 
 ---
 
